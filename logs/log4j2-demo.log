@@ -1,0 +1,19 @@
+2019-12-21 13:26:40.695  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Starting Log4j2DemoApplication on zup-14 with PID 22956 (/home/zupper/Documents/Metsys/log4j2-demo/target/classes started by zupper in /home/zupper/Documents/Metsys/log4j2-demo)
+2019-12-21 13:26:40.702 DEBUG zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-21 13:26:40.703  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : No active profile set, falling back to default profiles: default
+2019-12-21 13:26:41.670  INFO zup-14 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-12-21 13:26:41.688  INFO zup-14 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-12-21 13:26:41.689  INFO zup-14 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-12-21 13:26:41.689  INFO zup-14 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-21 13:26:41.755  INFO zup-14 --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-12-21 13:26:41.755  INFO zup-14 --- [           main] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 912 ms
+2019-12-21 13:26:41.940  INFO zup-14 --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-21 13:26:42.126  INFO zup-14 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-12-21 13:26:42.141  INFO zup-14 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-21 13:26:42.144  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Started Log4j2DemoApplication in 1.752 seconds (JVM running for 2.459)
+2019-12-21 13:26:42.147 DEBUG zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Debugging log
+2019-12-21 13:26:42.147  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Info log
+2019-12-21 13:26:42.147  WARN zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Hey, This is a warning!
+2019-12-21 13:26:42.147 ERROR zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Oops! We have an Error. OK
+2019-12-21 13:26:42.147 FATAL zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Damn! Fatal error. Please fix me.
+2019-12-21 13:28:54.611  INFO zup-14 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
