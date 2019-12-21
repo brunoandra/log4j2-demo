@@ -61,7 +61,15 @@
 			<artifactId>disruptor</artifactId>
 			<version>3.3.6</version>
 		</dependency>
+<!--Graylog-->
+		<dependency>
+			<groupId>biz.paluch.logging</groupId>
+			<artifactId>logstash-gelf</artifactId>
+			<version>1.13.0</version>
+		</dependency>
 	</dependencies>
+
+
 
 	<build>
 		<plugins>
