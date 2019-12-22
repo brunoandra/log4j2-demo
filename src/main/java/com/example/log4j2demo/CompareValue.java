@@ -19,6 +19,7 @@ public class CompareValue {
     {
         ThreadContext.put("valorA", String.valueOf(valueA));
         MDC.put("valorA","MDC " + String.valueOf(valueA));
+
         MDC.put("valorB", "MDC " + String.valueOf(valueB));
         logger.info("[CompareValue] - Começando a comparar os valores {}, {}", valueA, valueB);
         try{

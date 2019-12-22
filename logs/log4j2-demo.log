@@ -43,3 +43,4 @@
 2019-12-22 21:18:00.856  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Started Log4j2DemoApplication in 2.38 seconds (JVM running for 3.251)
 2019-12-22 21:18:00.864  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Começando a comparar os valores valueA1=2, 2
 2019-12-22 21:18:00.867  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Os valores são iguais
+2019-12-22 21:27:25.307  INFO zup-14 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
