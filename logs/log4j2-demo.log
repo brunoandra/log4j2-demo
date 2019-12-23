@@ -44,3 +44,33 @@
 2019-12-22 21:18:00.864  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Começando a comparar os valores valueA1=2, 2
 2019-12-22 21:18:00.867  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Os valores são iguais
 2019-12-22 21:27:25.307  INFO zup-14 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 22:14:25.341  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Starting Log4j2DemoApplication on zup-14 with PID 14214 (/home/zupper/Documents/Metsys/log4j2-demo/target/classes started by zupper in /home/zupper/Documents/Metsys/log4j2-demo)
+2019-12-22 22:14:25.394  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : No active profile set, falling back to default profiles: default
+2019-12-22 22:14:26.225  INFO zup-14 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 22:14:26.245  INFO zup-14 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-12-22 22:14:26.247  INFO zup-14 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-12-22 22:14:26.248  INFO zup-14 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 22:14:26.312  INFO zup-14 --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-12-22 22:14:26.313  INFO zup-14 --- [           main] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 871 ms
+2019-12-22 22:14:26.496  INFO zup-14 --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 22:14:26.700  INFO zup-14 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-12-22 22:14:26.727  INFO zup-14 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 22:14:26.731  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Started Log4j2DemoApplication in 1.708 seconds (JVM running for 3.203)
+2019-12-22 22:14:26.738  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Começando a comparar os valores 2, 2
+2019-12-22 22:14:26.739  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Os valores são iguais
+2019-12-22 22:14:29.383  INFO zup-14 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 22:31:48.196  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Starting Log4j2DemoApplication on zup-14 with PID 22919 (/home/zupper/Documents/Metsys/log4j2-demo/target/classes started by zupper in /home/zupper/Documents/Metsys/log4j2-demo)
+2019-12-22 22:31:48.219  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : No active profile set, falling back to default profiles: default
+2019-12-22 22:31:49.422  INFO zup-14 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 22:31:49.444  INFO zup-14 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-12-22 22:31:49.447  INFO zup-14 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-12-22 22:31:49.448  INFO zup-14 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 22:31:49.530  INFO zup-14 --- [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-12-22 22:31:49.531  INFO zup-14 --- [           main] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 1247 ms
+2019-12-22 22:31:49.736  INFO zup-14 --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 22:31:49.986  INFO zup-14 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-12-22 22:31:50.021  INFO zup-14 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 22:31:50.028  INFO zup-14 --- [           main] c.e.l.Log4j2DemoApplication              : Started Log4j2DemoApplication in 2.293 seconds (JVM running for 3.84)
+2019-12-22 22:31:50.036  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Começando a comparar os valores 2, 2
+2019-12-22 22:31:50.037  INFO zup-14 --- [           main] c.e.l.CompareValue                       : [CompareValue] - Os valores são iguais
+2019-12-22 22:31:54.169  INFO zup-14 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
